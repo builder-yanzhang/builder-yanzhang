@@ -1,4 +1,4 @@
-● ### Hey, I'm Yan Zhang 👋
+  ### Hey, I'm Yan Zhang 👋
 
   Independent developer & builder. I turn ideas into shipped products.
 
